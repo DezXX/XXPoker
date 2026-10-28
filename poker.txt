@@ -1,0 +1,11 @@
+# PokerXX name lists. Lines starting with # are ignored.
+# Use VRChat display names exactly as they show in game (capitals and extra spaces don't matter).
+# Supporters: pick the starting buy-in while the table is empty, 2x free chips, 2x hourly bonus.
+# Hosts: can pause a running game to change the buy-in (and pick it while the table is empty).
+
+[supporters]
+SupporterName1
+SupporterName2
+
+[hosts]
+DezXX
