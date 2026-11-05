@@ -4,9 +4,9 @@
 # Hosts: can pause a running game to change the buy-in (and pick it while the table is empty).
 
 [supporters]
-[1] Local Player
+[1] LocalPlayer
 -DezXX_
 
 [hosts]
 -DezXX_
-[1] Local Player
+[1] LocalPlayer
