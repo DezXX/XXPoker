@@ -10,3 +10,4 @@
 [hosts]
 -DezXX_
 [1] LocalPlayer
+Waify
